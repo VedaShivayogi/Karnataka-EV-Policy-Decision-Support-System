@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+
 # Karnataka EV Policy Decision Support System
 
 An AI-powered decision-support platform that combines **Machine Learning forecasting**,
@@ -13,7 +14,7 @@ going beyond a simple "predict EV adoption" model.
   ![EV Policy Decision Support System output 1](img1.png)
   ![EV Policy Decision Support System output 2](img2.png)
   ![EV Policy Decision Support System output 3](img3.png)
-- Demo video: [Watch the demo video](demo.mp4)
+- Demo video: [Watch the demo video](https://drive.google.com/file/d/12zWhVgJMGnvuA7OPNKa_O15eSTwi5zm3/view?usp=sharing)
 
 ---
 
@@ -362,5 +363,7 @@ illustrative**, generated for demonstration purposes only. Do not use outputs fr
 configuration for actual policy decisions — replace the sample data with verified official
 sources before any real-world use.
 =======
+
 # Karnataka-EV-Policy-Decision-Support-System-private
->>>>>>> 1b640ae266223d1e32f6a2fb36d7785bff1c3912
+
+> > > > > > > 1b640ae266223d1e32f6a2fb36d7785bff1c3912

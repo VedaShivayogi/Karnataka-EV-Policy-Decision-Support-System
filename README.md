@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Karnataka EV Policy Decision Support System
 
 An AI-powered decision-support platform that combines **Machine Learning forecasting**,
@@ -360,3 +361,6 @@ The sample data in `data/district_data.csv` and `data/policy_docs/*.txt` is **sy
 illustrative**, generated for demonstration purposes only. Do not use outputs from this demo
 configuration for actual policy decisions — replace the sample data with verified official
 sources before any real-world use.
+=======
+# Karnataka-EV-Policy-Decision-Support-System-private
+>>>>>>> 1b640ae266223d1e32f6a2fb36d7785bff1c3912

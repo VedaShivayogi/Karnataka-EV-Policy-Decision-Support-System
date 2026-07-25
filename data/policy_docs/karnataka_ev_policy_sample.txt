@@ -1,0 +1,34 @@
+SAMPLE / ILLUSTRATIVE DOCUMENT — Karnataka Electric Vehicle & Energy Storage Policy (Demo Data)
+NOTE: This is placeholder text for demonstrating the RAG pipeline. Replace this file with the
+actual official policy PDF/text (converted to .txt) before using this system for real analysis.
+
+1. Purchase Incentives
+The state offers a purchase subsidy for electric two-wheelers, three-wheelers, and four-wheelers
+registered within Karnataka. The baseline subsidy for electric two-wheelers is set at INR 20,000
+per vehicle, subject to revision by the Department of Transport. Commercial electric three-wheelers
+are eligible for an additional incentive of INR 10,000.
+
+2. Road Tax and Registration
+All battery electric vehicles (BEVs) registered in Karnataka are exempt from road tax and
+registration fees for the first five years from the date of purchase.
+
+3. Charging Infrastructure Targets
+The state aims to install at least 1 public charging station per 3 km along major highways and
+1 per 25 vehicles in urban wards by the end of the policy period. Charging station operators
+are eligible for capital subsidies covering up to 25% of equipment cost, capped at INR 10 lakh
+per station.
+
+4. Manufacturing Incentives
+EV and battery manufacturers investing in Karnataka are eligible for capital investment subsidies,
+stamp duty exemption on land purchase, and electricity duty exemption for a period of 10 years,
+subject to minimum investment and employment generation thresholds.
+
+5. Policy Duration and Review
+This policy is valid for five years from notification and is subject to a mid-term review after
+two and a half years, during which subsidy amounts, charging infrastructure targets, and
+manufacturing incentives may be revised based on adoption trends and fiscal capacity.
+
+6. Environmental Goals
+The policy targets a reduction in transport-sector CO2 emissions and aims for electric vehicles
+to constitute a meaningful share of new vehicle registrations by the end of the policy period,
+in line with the state's broader climate action commitments.

@@ -1,0 +1,16 @@
+district,fuel_price_inr,subsidy_inr,charging_stations,avg_income_inr,urbanization_pct,ev_adoption_pct
+Bengaluru Urban,102.5,25000,850,45000,92,18.4
+Mysuru,101.8,25000,210,28000,65,9.2
+Mangaluru,102.1,25000,180,32000,70,10.5
+Belagavi,101.5,20000,95,22000,48,5.1
+Hubballi-Dharwad,101.6,20000,110,24000,55,6.3
+Kalaburagi,101.2,20000,45,18000,40,3.2
+Ballari,101.3,20000,50,19000,42,3.5
+Shivamogga,101.4,20000,70,21000,50,4.8
+Tumakuru,101.9,22000,90,23000,52,5.6
+Davanagere,101.7,20000,65,20500,47,4.3
+Bidar,101.1,18000,30,17000,35,2.4
+Chikkamagaluru,101.6,20000,55,20000,44,4.0
+Udupi,102.0,22000,140,29000,60,8.1
+Raichur,100.9,18000,25,16500,33,2.0
+Kolar,101.8,20000,60,21000,49,4.5

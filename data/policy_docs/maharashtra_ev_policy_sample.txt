@@ -1,0 +1,27 @@
+SAMPLE / ILLUSTRATIVE DOCUMENT — Maharashtra Electric Vehicle Policy (Demo Data)
+NOTE: This is placeholder text for demonstrating the RAG pipeline. Replace with the actual
+official policy document before real use.
+
+1. Purchase Incentives
+Maharashtra provides purchase subsidies for electric two-wheelers, three-wheelers, and
+four-wheelers, with additional "early bird" incentives for buyers in the first phase of the
+policy period. Subsidy amounts are higher for vehicles manufactured within the state.
+
+2. Road Tax and Registration
+Battery electric vehicles receive full road tax and registration fee exemption during the
+incentive period, along with a scrappage incentive for replacing old fossil-fuel vehicles
+with electric ones.
+
+3. Charging Infrastructure
+The state targets deployment of charging infrastructure along key expressways (e.g.
+Mumbai-Pune) and mandates charging provisions in new residential and commercial building
+codes above a certain size threshold.
+
+4. Manufacturing and Employment
+Capital subsidies, interest subsidies, and employment-linked incentives are offered to EV and
+battery manufacturers, with higher incentive tiers for units located in designated industrial
+clusters.
+
+5. Policy Duration
+The policy runs for five years from notification, with incentive slabs designed to taper down
+over time to encourage early adoption.

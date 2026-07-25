@@ -1,0 +1,22 @@
+SAMPLE / ILLUSTRATIVE DOCUMENT — Tamil Nadu Electric Vehicle Policy (Demo Data)
+NOTE: This is placeholder text for demonstrating the RAG pipeline. Replace with the actual
+official policy document before real use.
+
+1. Purchase Incentives
+Tamil Nadu offers 100% road tax exemption and registration fee waiver on all battery electric
+vehicles for the duration of the policy. Direct purchase subsidies are primarily targeted at
+commercial EV fleets and public transport buses rather than private two-wheelers.
+
+2. Manufacturing Focus
+The policy places strong emphasis on attracting EV and battery cell manufacturing investment,
+offering capital subsidy, SGST reimbursement, and stamp duty exemption for large-scale
+manufacturing units, particularly in and around Chennai's automotive corridor.
+
+3. Charging Infrastructure
+The state encourages private participation in charging infrastructure through single-window
+clearance and reduced electricity tariffs for charging station operators, without a fixed
+per-kilometre station density target.
+
+4. Policy Duration
+The policy is in effect for five years from notification, with manufacturing incentives
+structured as multi-year investment-linked packages.
